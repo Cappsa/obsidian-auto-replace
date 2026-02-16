@@ -1,11 +1,10 @@
 {
-  "id": "auto-replace-plugin",
+  "id": "auto-replace",
   "name": "Auto Replace",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Automatically replaces text abbreviations. Supports folder-specific rules and manual replacement mode.",
   "author": "Cappsa",
   "authorUrl": "",
-  "repo": "Cappsa/obsidian-auto-replace",
   "isDesktopOnly": false
 }
